@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Centered Search Bar</title>
+  <link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body>
+  <div class="search-wrapper">
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search items..." autocomplete="off" />
+      <button id="searchBtn">Search</button>
+      <ul id="suggestions" class="suggestions-list"></ul>
+    </div>
+    <div class="results-container">
+      <h3>Results:</h3>
+      <ul id="resultsList"></ul>
+    </div>
+  </div>
+
+  <script src="./script/script.js"></script>
+</body>
+</html>
