@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\financeapp</_PublishTargetUrl>
+    <History>True|2025-11-01T17:37:33.6998218Z;True|2025-11-01T21:32:37.9221068+05:30;True|2025-11-01T21:28:00.8233325+05:30;True|2025-11-01T21:16:15.3401421+05:30;True|2025-11-01T21:11:28.0789148+05:30;True|2025-10-31T23:44:07.1241563+05:30;True|2025-10-31T23:30:05.7495105+05:30;True|2025-10-31T23:28:49.1426084+05:30;True|2025-10-31T23:27:35.0468762+05:30;True|2025-10-31T23:17:56.4423212+05:30;True|2025-10-31T23:16:59.5120879+05:30;True|2025-10-31T23:15:20.3730822+05:30;True|2025-10-31T23:09:54.2079289+05:30;True|2025-10-31T22:49:07.9685309+05:30;False|2025-10-31T22:45:01.6602650+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
