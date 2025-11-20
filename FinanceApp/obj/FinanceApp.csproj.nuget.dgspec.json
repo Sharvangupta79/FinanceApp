@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\youtube search\\FinanceApp\\FinanceApp.csproj": {}
+    "C:\\DemoAppFinance\\FinanceApp\\FinanceApp.csproj": {}
   },
   "projects": {
-    "C:\\youtube search\\FinanceApp\\FinanceApp.csproj": {
+    "C:\\DemoAppFinance\\FinanceApp\\FinanceApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\youtube search\\FinanceApp\\FinanceApp.csproj",
+        "projectUniqueName": "C:\\DemoAppFinance\\FinanceApp\\FinanceApp.csproj",
         "projectName": "FinanceApp",
-        "projectPath": "C:\\youtube search\\FinanceApp\\FinanceApp.csproj",
+        "projectPath": "C:\\DemoAppFinance\\FinanceApp\\FinanceApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\youtube search\\FinanceApp\\obj\\",
+        "outputPath": "C:\\DemoAppFinance\\FinanceApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,6 +64,12 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.10, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.22, )",
+              "autoReferenced": true
             }
           },
           "imports": [
